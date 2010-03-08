@@ -1,1 +1,10 @@
-new info has come to light
+
+TO UPLOAD YOUR GIT THINGIE TO GITHUB...
+
+first you enter this,
+cd SGD-CSS-Frame
+
+then this,
+git push origin master
+
+did the ol' trick for me
